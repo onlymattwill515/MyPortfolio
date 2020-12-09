@@ -1,0 +1,30 @@
+body{
+    background-color: grey;
+    
+}
+.navbar-light .navbar-brand{
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+}
+.container{
+    background-color: white;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: fit-content;
+}
+h1{
+    color: teal;
+    margin-left: 20px;
+}
+hr{
+    border-top: 1px solid teal;
+}
+footer{
+    background-color: #474c54;
+    text-align: center;
+    border-top: solid teal;
+    padding: 10px;
+    
+}
