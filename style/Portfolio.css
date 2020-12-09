@@ -7,7 +7,7 @@ body{
     color: white;
     font-weight: bold;
 }
-div.col{
+.container{
     background-color: white;
     margin-top: 50px;
     padding-top: 50px;
@@ -35,20 +35,21 @@ footer{
     text-align: center;
     border-top: solid teal;
     padding: 10px;
+    
 }
 
 @media screen and (min-width: 400px) and (max-width: 400px) {
-    div.col{
+    .container{
         width: 370px;
     }
 }
 @media screen and (min-width: 768px) and (max-width: 768px) {
-    div.col{
+    .container{
         width: 400px;
     }
 }
 @media screen and (min-width: 992px) and (max-width: 992px) {
-    div.col{
+    .container{
         width: 770px;
     }
 }

@@ -21,6 +21,9 @@ h1{
 hr{
     border-top: 1px solid teal;
 }
+.email{
+    margin-top: 10px;
+}
 .col-md-2 button{
     margin-top: 10px;
 }
@@ -29,8 +32,9 @@ footer{
     text-align: center;
     border-top: solid teal;
     padding: 10px;
-    position: relative;
-    margin-top: 180px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 @media screen and (min-width: 400px) and (max-width: 400px) {
