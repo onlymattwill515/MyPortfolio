@@ -21,13 +21,13 @@ To navigate use the navbar to visit the below pages
 
 
 About:
-![About](../onlymattwill515.github.io/assets/images/AboutMe_Index.png)
+![About](../onlymattwill515.github.io/Assets/images/AboutMe_Index.png)
 
 Portfolio:
-![Porfolio](../onlymattwill515.github.io/assets/images/Portfolio.png)
+![Porfolio](../onlymattwill515.github.io/Assets/images/Portfolio.png)
 
 Contact:
-![Contact](../onlymattwill515.github.io/assets/images/Contact.png)
+![Contact](../onlymattwill515.github.io/Assets/images/Contact.png)
 
 
 ## Credits
