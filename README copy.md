@@ -20,15 +20,13 @@ My responsive portfolio was optimized for screen widths of 400px, 768px, & 992px
 To navigate use the navbar to visit the below pages
 
 
-```md
+
 ![About](assets/images/AboutMe_Index.png)
-```
-```md
+
 ![Porfolio](assets/images/Portfolio.png)
-```
-```md
+
 ![Contact](assets/images/Contact.png)
-```
+
 
 ## Credits
 
