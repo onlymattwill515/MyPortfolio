@@ -20,13 +20,15 @@ My responsive portfolio was optimized for screen widths of 400px, 768px, & 992px
 To navigate use the navbar to visit the below pages
 
 
-
+```md
 ![About](../onlymattwill515.github.io/assets/images/AboutMe_Index.png)
-
+```
+```md
 ![Porfolio](../onlymattwill515.github.io/assets/images/Portfolio.png)
-
+```
+```md
 ![Contact](../onlymattwill515.github.io/assets/images/Contact.png)
-
+```
 
 ## Credits
 
